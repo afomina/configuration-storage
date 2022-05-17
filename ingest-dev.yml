@@ -1,0 +1,4 @@
+ingestors:
+  launch:
+    npm: true
+    
